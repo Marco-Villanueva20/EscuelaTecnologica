@@ -1,0 +1,23 @@
+
+.metadata
+
+# Ignore target directory
+/target/
+
+# Ignore Maven wrapper files
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+
+# Ignore temporary files
+*.tmp
+*.log
+*.swp
+
+# Ignore Node.js dependencies
+/frontend-angular/node_modules/
+
+# Ignore environment variables
+*.env
+
+# Ignore Windows system files
+Thumbs.db
